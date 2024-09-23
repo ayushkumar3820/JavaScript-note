@@ -1,6 +1,6 @@
 console.log("Ayush while loop part ");
 
-debugger
+// debugger
 
 
 // let i=0;
@@ -8,7 +8,7 @@ debugger
 //     console.log(i);
 //     i++;
 // }
-debugger
+// debugger
 let Array=['A','B','C','D','E']
 
 let i=0;
