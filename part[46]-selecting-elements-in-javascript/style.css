@@ -1,0 +1,7 @@
+#css-image { /* Selects the element with id="css-image" */
+    border: 4px solid green; /* Adds a 4px thick green solid border */
+}
+
+[alt="javascript roadmap"] { /* Selects elements with alt="javascript roadmap" (commonly used in <img> tags) */
+    border: 4px solid hotpink; /* Adds a 4px thick hotpink solid border */
+}
