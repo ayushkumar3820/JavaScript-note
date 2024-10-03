@@ -1,7 +1,7 @@
 const input=document.querySelector('input');
-debugger
+// debugger
 const debouncing=(func,wait)=>{
-    let TimeId;
+    let TimeId
     return (...arg)=>{
       console.log('calling')
       clearTimeout(TimeId); 
